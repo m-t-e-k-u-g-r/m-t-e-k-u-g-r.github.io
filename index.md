@@ -10,4 +10,4 @@ In Tramelan angekommen gaben wir unser grösseres Gepäck auf und machten uns mi
 Wir waren zu früh dort, wodurch wir das Haus für etwa 90 Minuten nicht betreten konnten. Diese nutzten wir aus um für die anstehende Prüfung zu lernen, zu entspannen, oder sonst etwas zu machen. Danach konnten wir ins Haus, wo wir zuerst unsere Zimmer bezogen und im Anschluss Tische und Stühle für die WR-Prüfung aufstellten. Nach der Prüfung bekamen wir eine geschichtliche Einführung in den Jura-Konflikt.  
 Damit war dann der Tag auch schon wieder vorbei. Wir kochten noch Abendessen und erhielten eine erste Einführung in GitHub.  
 
-[Der nächste Tag]()
+[Der nächste Tag](241001_Zweiter_Tag)
